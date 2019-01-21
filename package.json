@@ -1,0 +1,25 @@
+{
+  "name": "pttpr",
+  "version": "1.0.0",
+  "description": "A crawler and parser for web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobHsu/node-puppeteer.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Jacob Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobHsu/node-puppeteer/issues"
+  },
+  "homepage": "https://github.com/JacobHsu/node-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  }
+}
