@@ -1,5 +1,7 @@
 # node-puppeteer 
 
+[Puppeteer](https://developers.google.com/web/tools/puppeteer/?hl=zh-tw)  
+[Getting Started](https://developers.google.com/web/tools/puppeteer/get-started?hl=zh-tw#top_of_page)  
 
 `npm init`  
 `npm i puppeteer --save`  
