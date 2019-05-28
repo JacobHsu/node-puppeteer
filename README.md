@@ -6,6 +6,16 @@
 `npm init`  
 `npm i puppeteer --save`  
 
+[Pressing Enter button in puppeteer](https://stackoverflow.com/questions/46442253/pressing-enter-button-in-puppeteer)  
+[Keyboard Event Viewer](http://w3c.github.io/uievents/tools/key-event-viewer)  
+`await page.keyboard.press('Enter');`  
+
+
+
+## Examples
+
+checkly/[puppeteer-examples](https://github.com/checkly/puppeteer-examples)  
+
 ## Usage  
 
 `$ node ptt` 透過 Puppeteer 實現JS版的PTT網頁爬蟲  
@@ -19,5 +29,7 @@ GoogleChrome/[puppeteer](https://github.com/GoogleChrome/puppeteer)
 
 # Tools
 
+Chrome Extension [Puppeteer Recorder](https://chrome.google.com/webstore/detail/puppeteer-recorder/djeegiggegleadkkbgopoonhjimgehda/related)  
 [Visual Studio Code](https://code.visualstudio.com/) - Code Editing. Redefined  
 [Brackets](http://brackets.io/) - A modern, open source code editor  
+
