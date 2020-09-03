@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/JacobHsu/node-puppeteer#readme",
   "dependencies": {
-    "puppeteer": "^1.11.0"
+    "puppeteer": "^1.13.0"
   }
 }
